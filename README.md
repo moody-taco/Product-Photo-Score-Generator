@@ -38,7 +38,7 @@ Upload your product photo:
 
 ```bash
 git clone https://github.com/moody-taco/product-photo-score-generator.git
-cd smart-product-image-checker
+cd product-photo-score-generator
 pip install -r requirements.txt
 streamlit run app.py
 ```
